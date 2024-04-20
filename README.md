@@ -41,7 +41,7 @@ Users can search for specific news articles by keywords, topics, or headlines. T
 
 
 
-<img align="left" src="https://github.com/aryansabhani/news_app/assets/112259316/9eb78f3b-fb2d-47d4-8aea-e74e61ef76a3" width="220px">
+
 
 
 
