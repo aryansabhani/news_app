@@ -25,9 +25,25 @@ Users can choose their preferred topics such as politics, sports, technology, en
 Users can search for specific news articles by keywords, topics, or headlines. This feature enables users to quickly find relevant information within the app.
 ## 📲 Screenshots
 
-<img align="left" src="./assets/screenshots/age_calc_1.png" width="220px">
-<img align="left" src="./assets/screenshots/age_calc_2.png" width="220px">
-<img src="./assets/screenshots/age_calc_3.png" width="220px">
+
+
+<img align="left" src="https://github.com/aryansabhani/news_app/assets/112259316/9eb78f3b-fb2d-47d4-8aea-e74e61ef76a3" width="220px">
+<img align="left" src="https://github.com/aryansabhani/news_app/assets/112259316/6cf88a58-7540-49ff-910f-ddb3ce1f58b9" width="220px">
+<img src="https://github.com/aryansabhani/news_app/assets/112259316/03013525-27b6-4d17-929f-14db163eef54" width="220px">
+<img src="https://github.com/aryansabhani/news_app/assets/112259316/a972c98a-0e07-4af0-b3a2-4448e86dfd2b" width="220px">
+<img src="https://github.com/aryansabhani/news_app/assets/112259316/7b5a356e-63ca-4849-a75e-b00387c21c1b" width="220px">
+
+
+
+<br><br>
+
+## 📽️ Video
+
+
+
+<img align="left" src="https://github.com/aryansabhani/news_app/assets/112259316/9eb78f3b-fb2d-47d4-8aea-e74e61ef76a3" width="220px">
+
+
 
 
 <br><br>
