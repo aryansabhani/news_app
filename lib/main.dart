@@ -6,6 +6,7 @@ import 'package:news_app/tab_bar.dart';
 import 'package:news_app/topic_wiseNews.dart';
 
 import 'detail_page.dart';
+import 'splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -23,9 +24,10 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       // home: HomePage(),
-      initialRoute: '/tab',
+      // initialRoute: '/tab',
       getPages: [
-        GetPage(name: '/', page: () => HomePage(),),
+        GetPage(name: '/', page: () => AnimatedSplas(),),
+        GetPage(name: '/home', page: () => HomePage(),),
         GetPage(name: '/detail', page: () => InAppWebViewPage(),),
         GetPage(name: '/topic', page: () => TopicNews(),),
         GetPage(name: '/tab', page: () => TabBarExample(),),

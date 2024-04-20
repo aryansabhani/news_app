@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:flutter/material.dart';
 import 'package:news_app/home_screen.dart';
 import 'package:news_app/topic_wiseNews.dart';
@@ -29,10 +31,11 @@ class _TabBarExampleState extends State<TabBarExample>
 
   @override
   Widget build(BuildContext context) {
+    log('${Colors.deepPurple.shade500}');
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text('News App',style: TextStyle(color: Colors.white),),
+        title: const Text('Gusto News',style: TextStyle(color: Colors.white),),
         backgroundColor: Colors.deepPurple.shade500,
         bottom: TabBar(
           controller: _tabController,
