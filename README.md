@@ -43,6 +43,13 @@ Users can search for specific news articles by keywords, topics, or headlines. T
 
 
 
+https://github.com/aryansabhani/news_app/assets/112259316/ae3b4e1e-a57f-4952-84c5-858f038ab32c
+
+
+
+
+
+
 
 
 
