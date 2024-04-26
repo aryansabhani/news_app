@@ -1,8 +1,8 @@
 
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
+import 'package:news_app/view/screen/tab_bar.dart';
 
-import 'tab_bar.dart';
 
 class AnimatedSplas extends StatefulWidget {
   const AnimatedSplas({super.key});
@@ -25,7 +25,7 @@ class _AnimatedSplasState extends State<AnimatedSplas> {
           "asstes/image/newslogo.png",
           fit: BoxFit.fitWidth,
         ),
-        nextScreen: TabBarExample(),
+        nextScreen: TabBarScreen(),
       ),
       backgroundColor: Colors.black,
     );

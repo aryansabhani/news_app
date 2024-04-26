@@ -1,19 +1,20 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:news_app/home_screen.dart';
-import 'package:news_app/topic_wiseNews.dart';
+import 'package:news_app/view/screen/home_screen.dart';
 
-class TabBarExample extends StatefulWidget {
-  const TabBarExample({super.key});
+import 'topic_wiseNews.dart';
+
+class TabBarScreen extends StatefulWidget {
+  const TabBarScreen({super.key});
 
   @override
-  State<TabBarExample> createState() => _TabBarExampleState();
+  State<TabBarScreen> createState() => _TabBarScreenState();
 }
 
 /// [AnimationController]s can be created with `vsync: this` because of
 /// [TickerProviderStateMixin].
-class _TabBarExampleState extends State<TabBarExample>
+class _TabBarScreenState extends State<TabBarScreen>
     with TickerProviderStateMixin {
   late final TabController _tabController;
 
